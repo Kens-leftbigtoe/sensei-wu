@@ -4,4 +4,4 @@
 
 <p>long before time had a name.</p>
 <p>imagine if Ninjago t a low taper fade</p>
-<img src="https://www.mecabricks.com/image/mLvzy3n4jAw.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1440px; height: 270px; margin: 77px 0px; width: 432px;" alt="Mecabricks.com | Ninja|Fortnite" jsname="kn3ccd" aria-hidden="false">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMtSdsR5o_vS9jBqOhmCtY_dvE4fJZ0eQYA&amp;s" class="sFlh5c FyHeAf" alt="Mecabricks.com | Ninja|Fortnite" jsname="JuXqh" style="max-width: 1440px; position: absolute; visibility: hidden;" data-ilt="1736855382070">
